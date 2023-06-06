@@ -40,4 +40,4 @@
 
 [ほげ](./fuga/hoge.md)
 
-![ほげ](.hoghe.png)
+![ほげ](./hoge.png)
